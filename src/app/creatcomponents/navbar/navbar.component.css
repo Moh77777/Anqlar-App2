@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #2C3E50;
+
+}
+.active-nav{
+    border:  solid green 1px;
+    background-color: aqua;
+}
+.active-nav:hover a{
+    color: blue;
+}

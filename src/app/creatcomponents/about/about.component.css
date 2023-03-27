@@ -1,0 +1,33 @@
+section{
+    background-color:  #1abc9c !important;
+    color :#fff;
+    text-align: center !important;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+}
+p{
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.lines {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lines .line1 {
+    background-color: #fff;
+    margin: 0 15px;
+    width: 10rem;
+    height: 0.25rem;
+}
+.line-icon {
+    font-size: 2rem;
+}
